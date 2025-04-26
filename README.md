@@ -1,5 +1,4 @@
 # Hi, I'm Yasser Benzidiya! 👋
-[![ybenzidi 42 stats](https://badge.mediaplus.ma/darkblue/ybenzidi)](https://github.com/YasserB3nzo)
 ### About Me
 - 🎓 I'm a 20-year-old student at **1337 Benguerir**.
 - 🛠️ I work with **Node.js** for backend and **React Native** for frontend development.
