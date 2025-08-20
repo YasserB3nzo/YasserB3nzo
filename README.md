@@ -1,5 +1,6 @@
 # Hi, I'm Yasser Benzidiya! 👋
-[![<username>'s 42 stats](https://badge.mediaplus.ma/darkblue/<ybenzidi>)](https://github.com/oakoudad/badge42)
+[![ybenzidi's 42 stats](https://badge.mediaplus.ma/levi/ybenzidi)](https://github.com/oakoudad/badge42)
+
 ### About Me
 
 - 🎓 I'm a 20-year-old student at **1337 Benguerir**.
